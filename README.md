@@ -6,6 +6,7 @@ Authors:
 * Allen Wu, The University of Texas at Austin, allen.wu@utexas.edu
 * Hyun Park, The University of Texas at Austin, hyun_0421@utexas.edu
 * Yara Almilaify, The University of Texas at Austin, yara.m@utexas.edu
+* Ava Mohammadi, Eindhoven University of Technology, a.mohammadi@tue.nl
 * Zoltan Nagy, The University of Texas as Austin, nagy@utexas.edu
 
 Originally presented at ICLR 2023
@@ -15,8 +16,6 @@ Originally presented at ICLR 2023
 We recommend executing this notebook in a Colab environment to gain access to GPUs and to manage all necessary dependencies. <a target="_blank" href="https://colab.research.google.com/github/climatechange-ai-tutorials/citylearn/blob/main/citylearn_ccai_tutorial.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
-
-We estimate that this tutorial will take around 20 minutes to execute from end-to-end.
 
 ## Contribute to this tutorial
 
@@ -33,15 +32,15 @@ Usage of this tutorial is subject to the MIT License.
 ## Cite
 
 ### Plain Text
-Nweye, K., Wu, A., Almilaify, Y., & Nagy, Z. (2024). CityLearn: Reinforcement Learning Control for Grid-Interactive Efficient Buildings and Communities [Tutorial]. In Climate Change AI Summer School. Climate Change AI. https://doi.org/10.5281/zenodo.11639022
+Nweye, K., Wu, A., Almilaify, Y., Mohammadi, A., & Nagy, Z. (2026). CityLearn: Reinforcement Learning Control for Grid-Interactive Efficient Buildings and Communities [Tutorial]. In Climate Change AI Summer School. Climate Change AI. https://doi.org/10.5281/zenodo.11639022
 
 ### BibTeX
 
 ```
-@misc{nweye2024citylearn:,
+@misc{nweye2026citylearn:,
   title={CityLearn: Reinforcement Learning Control for Grid-Interactive Efficient Buildings and Communities},
-  author={Nweye, Kingsley and Wu, Allen and Almilaify, Yara and Nagy, Zoltan},
-  year={2024},
+  author={Nweye, Kingsley and Wu, Allen and Almilaify, Yara and Mohammadi, Ava and Nagy, Zoltan},
+  year={2026},
   organization={Climate Change AI},
   type={Tutorial},
   doi={https://doi.org/10.5281/zenodo.11639022},
