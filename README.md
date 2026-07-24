@@ -2,12 +2,12 @@
 Learn how to design simple and advanced control algorithms to provide energy flexibility, and acquire familiarity with the CityLearn environment and its datasets for extended use in projects. The tutorial provides a walk-through on how to set up and interact with the environment using a real-world dataset in three hands-on control experiments.
 
 Authors:
-* Kingsley Nweye, The University of Texas at Austin, nweye@utexas.edu
-* Allen Wu, The University of Texas at Austin, allen.wu@utexas.edu
-* Hyun Park, The University of Texas at Austin, hyun_0421@utexas.edu
-* Yara Almilaify, The University of Texas at Austin, yara.m@utexas.edu
-* Ava Mohammadi, Eindhoven University of Technology, a.mohammadi@tue.nl
-* Zoltan Nagy, The University of Texas as Austin, nagy@utexas.edu
+* [Kingsley Nweye](https://kingsleynweye.com), The University of Texas at Austin, [nweye@utexas.edu](mailto:nweye@utexas.edu)
+* [Allen Wu](https://www.linkedin.com/in/allenjeffreywu), The University of Texas at Austin, [allen.wu@utexas.edu](mailto:allen.wu@utexas.edu)
+* Hyun Park, The University of Texas at Austin, [hyun_0421@utexas.edu](mailto:hyun_0421@utexas.edu)
+* Yara Almilaify, The University of Texas at Austin, [yara.m@utexas.edu](mailto:yara.m@utexas.edu)
+* [Ava Mohammadi](https://www.linkedin.com/in/ava-mohammadi), Eindhoven University of Technology, [a.mohammadi@tue.nl](mailto:a.mohammadi@tue.nl)
+* [Zoltan Nagy](https://www.tue.nl/en/research/researchers/zoltan-nagy), Eindhoven University of Technology, [z.nagy@tue.nl](mailto:z.nagy@tue.nl)
 
 Originally presented at ICLR 2023
 
